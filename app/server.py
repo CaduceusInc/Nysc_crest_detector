@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=1kZEziA392EJh6pybnNnr44JzQW3ipSH'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1kZEziA392EJh6pybnNnr44JzQW3ipSHs'
 export_file_name = 'nysc_resnet101_6th_Nov.pkl'
 
 classes = ['CorpersWithVest', 'CorpersWithoutVest']
